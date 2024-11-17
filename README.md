@@ -1,5 +1,4 @@
-# VT-Former
-# Vehicle Trajectory Prediction with Graph Attentive Tokenization and Transformer
+# VT-Former: Vehicle Trajectory Prediction with Graph Attentive Tokenization and Transformer
 
 [GitHub Repository](https://github.com/akanshamingwal/VT-Former.git)
 
